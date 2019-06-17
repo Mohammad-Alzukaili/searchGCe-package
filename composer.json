@@ -1,7 +1,7 @@
 {
     "name": "mawdoo3-alzukaili/search-gce",
     "require": {
-        "php": "7.2.12"
+
     },
     "license": "MIT",
     "authors": [
