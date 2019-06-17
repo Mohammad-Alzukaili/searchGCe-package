@@ -1,0 +1,13 @@
+{
+    "name": "mohammad/search",
+    "require": {
+        "php": "7.2.12"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ameen zqili",
+            "email": "ameenzqili@gmail.com"
+        }
+    ]
+}
