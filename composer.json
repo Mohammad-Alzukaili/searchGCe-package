@@ -1,5 +1,5 @@
 {
-    "name": "mawdoo3/search",
+    "name": "mawdoo3/searchGCE",
     "require": {
         "php": "7.2.12"
     },
